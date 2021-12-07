@@ -6,7 +6,7 @@
   <link href="https://mike-brown8.github.io/atom.xml" rel="self"/>
   
   <link href="https://mike-brown8.github.io/"/>
-  <updated>2021-11-03T12:25:40.000Z</updated>
+  <updated>2021-12-07T11:00:01.637Z</updated>
   <id>https://mike-brown8.github.io/</id>
   
   <author>
@@ -17,9 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>通知</title>
+    <link href="https://mike-brown8.github.io/2021/12/07/%E5%85%AC%E5%91%8A/"/>
+    <id>https://mike-brown8.github.io/2021/12/07/%E5%85%AC%E5%91%8A/</id>
+    <published>2021-12-07T10:58:30.000Z</published>
+    <updated>2021-12-07T11:00:01.637Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;由于重装系统，博客本地文件夹丢失，故有一些旧博客也一起丢失了。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="公告" scheme="https://mike-brown8.github.io/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Win11已可在Next, Itellyou下载</title>
-    <link href="https://mike-brown8.github.io/2021/10/24/2021-10-24-W11/"/>
-    <id>https://mike-brown8.github.io/2021/10/24/2021-10-24-W11/</id>
+    <link href="https://mike-brown8.github.io/2021/10/24/W11/"/>
+    <id>https://mike-brown8.github.io/2021/10/24/W11/</id>
     <published>2021-10-23T16:00:00.000Z</published>
     <updated>2021-11-03T12:25:40.000Z</updated>
     
@@ -41,8 +65,8 @@
   
   <entry>
     <title>曲奇做法</title>
-    <link href="https://mike-brown8.github.io/2021/08/21/2021-08-21-Cookie/"/>
-    <id>https://mike-brown8.github.io/2021/08/21/2021-08-21-Cookie/</id>
+    <link href="https://mike-brown8.github.io/2021/08/21/Cookie/"/>
+    <id>https://mike-brown8.github.io/2021/08/21/Cookie/</id>
     <published>2021-08-20T16:00:00.000Z</published>
     <updated>2021-12-07T10:10:22.917Z</updated>
     
@@ -58,8 +82,8 @@
   
   <entry>
     <title>会员管理系统 2.2.0.2013更新</title>
-    <link href="https://mike-brown8.github.io/2021/08/16/2021-08-16-VIPs-MGR-2-2-0-2013/"/>
-    <id>https://mike-brown8.github.io/2021/08/16/2021-08-16-VIPs-MGR-2-2-0-2013/</id>
+    <link href="https://mike-brown8.github.io/2021/08/16/VIPs_MGR_2.2.0.2013/"/>
+    <id>https://mike-brown8.github.io/2021/08/16/VIPs_MGR_2.2.0.2013/</id>
     <published>2021-08-15T16:00:00.000Z</published>
     <updated>2021-11-03T12:25:40.000Z</updated>
     
@@ -81,8 +105,8 @@
   
   <entry>
     <title>会员管理系统</title>
-    <link href="https://mike-brown8.github.io/2021/08/01/2021-08-01-VIP-Manager/"/>
-    <id>https://mike-brown8.github.io/2021/08/01/2021-08-01-VIP-Manager/</id>
+    <link href="https://mike-brown8.github.io/2021/08/01/VIP_Manager/"/>
+    <id>https://mike-brown8.github.io/2021/08/01/VIP_Manager/</id>
     <published>2021-07-31T16:00:00.000Z</published>
     <updated>2021-11-03T12:25:40.000Z</updated>
     
@@ -100,8 +124,8 @@
   
   <entry>
     <title>棋盘程序</title>
-    <link href="https://mike-brown8.github.io/2021/07/22/2021-07-22-5Chess/"/>
-    <id>https://mike-brown8.github.io/2021/07/22/2021-07-22-5Chess/</id>
+    <link href="https://mike-brown8.github.io/2021/07/22/5Chess/"/>
+    <id>https://mike-brown8.github.io/2021/07/22/5Chess/</id>
     <published>2021-07-21T16:00:00.000Z</published>
     <updated>2021-11-03T12:25:40.000Z</updated>
     
@@ -119,8 +143,8 @@
   
   <entry>
     <title>MD博客编写工具分享</title>
-    <link href="https://mike-brown8.github.io/2021/07/16/2021-07-16-0001/"/>
-    <id>https://mike-brown8.github.io/2021/07/16/2021-07-16-0001/</id>
+    <link href="https://mike-brown8.github.io/2021/07/16/0001/"/>
+    <id>https://mike-brown8.github.io/2021/07/16/0001/</id>
     <published>2021-07-15T16:00:00.000Z</published>
     <updated>2021-11-03T12:25:40.000Z</updated>
     
@@ -138,8 +162,8 @@
   
   <entry>
     <title>测试01</title>
-    <link href="https://mike-brown8.github.io/2021/07/15/2021-07-15-Test001/"/>
-    <id>https://mike-brown8.github.io/2021/07/15/2021-07-15-Test001/</id>
+    <link href="https://mike-brown8.github.io/2021/07/15/Test001/"/>
+    <id>https://mike-brown8.github.io/2021/07/15/Test001/</id>
     <published>2021-07-14T16:00:00.000Z</published>
     <updated>2021-11-03T12:25:40.000Z</updated>
     
