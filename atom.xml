@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mike的个人博客</title>
+  <icon>https://mike-brown8.github.io/icon.png</icon>
+  <subtitle>一名学生的个人博客</subtitle>
+  <link href="https://mike-brown8.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mike-brown8.github.io/"/>
+  <updated>2021-11-03T12:25:40.000Z</updated>
+  <id>https://mike-brown8.github.io/</id>
+  
+  <author>
+    <name>Mike Brown</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Win11已可在Next, Itellyou下载</title>
+    <link href="https://mike-brown8.github.io/2021/10/24/2021-10-24-W11/"/>
+    <id>https://mike-brown8.github.io/2021/10/24/2021-10-24-W11/</id>
+    <published>2021-10-23T16:00:00.000Z</published>
+    <updated>2021-11-03T12:25:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Win11已可在Next-Itellyou下载&quot;&gt;&lt;a href=&quot;#Win11已可在Next-Itellyou下载&quot; class=&quot;headerlink&quot; title=&quot;Win11已可在Next, Itellyou下载&quot;&gt;&lt;/a&gt;Win11已可在Next,</summary>
+        
+      
+    
+    
+    
+    <category term="blog" scheme="https://mike-brown8.github.io/categories/blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>曲奇做法</title>
+    <link href="https://mike-brown8.github.io/2021/08/21/2021-08-21-Cookie/"/>
+    <id>https://mike-brown8.github.io/2021/08/21/2021-08-21-Cookie/</id>
+    <published>2021-08-20T16:00:00.000Z</published>
+    <updated>2021-12-07T10:10:22.917Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;曲奇做法&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="blog" scheme="https://mike-brown8.github.io/categories/blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>会员管理系统 2.2.0.2013更新</title>
+    <link href="https://mike-brown8.github.io/2021/08/16/2021-08-16-VIPs-MGR-2-2-0-2013/"/>
+    <id>https://mike-brown8.github.io/2021/08/16/2021-08-16-VIPs-MGR-2-2-0-2013/</id>
+    <published>2021-08-15T16:00:00.000Z</published>
+    <updated>2021-11-03T12:25:40.000Z</updated>
+    
+    
+    <summary type="html">VIPs_MGR v2.2.0.2013</summary>
+    
+    
+    
+    <category term="blog" scheme="https://mike-brown8.github.io/categories/blog/"/>
+    
+    
+    <category term="工具" scheme="https://mike-brown8.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="软件" scheme="https://mike-brown8.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="更新" scheme="https://mike-brown8.github.io/tags/%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>会员管理系统</title>
+    <link href="https://mike-brown8.github.io/2021/08/01/2021-08-01-VIP-Manager/"/>
+    <id>https://mike-brown8.github.io/2021/08/01/2021-08-01-VIP-Manager/</id>
+    <published>2021-07-31T16:00:00.000Z</published>
+    <updated>2021-11-03T12:25:40.000Z</updated>
+    
+    
+    <summary type="html">会员管理系统</summary>
+    
+    
+    
+    <category term="blog" scheme="https://mike-brown8.github.io/categories/blog/"/>
+    
+    
+    <category term="工具" scheme="https://mike-brown8.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>棋盘程序</title>
+    <link href="https://mike-brown8.github.io/2021/07/22/2021-07-22-5Chess/"/>
+    <id>https://mike-brown8.github.io/2021/07/22/2021-07-22-5Chess/</id>
+    <published>2021-07-21T16:00:00.000Z</published>
+    <updated>2021-11-03T12:25:40.000Z</updated>
+    
+    
+    <summary type="html">快来线上下棋吧！</summary>
+    
+    
+    
+    <category term="blog" scheme="https://mike-brown8.github.io/categories/blog/"/>
+    
+    
+    <category term="工具" scheme="https://mike-brown8.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MD博客编写工具分享</title>
+    <link href="https://mike-brown8.github.io/2021/07/16/2021-07-16-0001/"/>
+    <id>https://mike-brown8.github.io/2021/07/16/2021-07-16-0001/</id>
+    <published>2021-07-15T16:00:00.000Z</published>
+    <updated>2021-11-03T12:25:40.000Z</updated>
+    
+    
+    <summary type="html">方便的编写MD博客</summary>
+    
+    
+    
+    <category term="blog" scheme="https://mike-brown8.github.io/categories/blog/"/>
+    
+    
+    <category term="工具" scheme="https://mike-brown8.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试01</title>
+    <link href="https://mike-brown8.github.io/2021/07/15/2021-07-15-Test001/"/>
+    <id>https://mike-brown8.github.io/2021/07/15/2021-07-15-Test001/</id>
+    <published>2021-07-14T16:00:00.000Z</published>
+    <updated>2021-11-03T12:25:40.000Z</updated>
+    
+    
+    <summary type="html">测试咯！</summary>
+    
+    
+    
+    <category term="blog" scheme="https://mike-brown8.github.io/categories/blog/"/>
+    
+    
+    <category term="测试文章" scheme="https://mike-brown8.github.io/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+</feed>
