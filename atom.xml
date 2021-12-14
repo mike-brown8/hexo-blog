@@ -6,7 +6,7 @@
   <link href="https://mike-brown8.github.io/atom.xml" rel="self"/>
   
   <link href="https://mike-brown8.github.io/"/>
-  <updated>2021-12-14T06:21:05.304Z</updated>
+  <updated>2021-12-14T06:46:50.272Z</updated>
   <id>https://mike-brown8.github.io/</id>
   
   <author>
@@ -17,15 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>blog</title>
-    <link href="https://mike-brown8.github.io/2021/12/14/blog/"/>
-    <id>https://mike-brown8.github.io/2021/12/14/blog/</id>
+    <title>Hexo博客GUI工具</title>
+    <link href="https://mike-brown8.github.io/2021/12/14/bloghlper/"/>
+    <id>https://mike-brown8.github.io/2021/12/14/bloghlper/</id>
     <published>2021-12-14T06:21:05.000Z</published>
-    <updated>2021-12-14T06:21:05.304Z</updated>
+    <updated>2021-12-14T06:46:50.272Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;因为觉得备份博客太麻烦，花两个小时做了这个。&lt;/p&gt;</summary>
     
     
     
+    <category term="工具" scheme="https://mike-brown8.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
     
+    
+    <category term="闭源软件" scheme="https://mike-brown8.github.io/tags/%E9%97%AD%E6%BA%90%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -49,23 +55,6 @@
     
     
     <category term="公告" scheme="https://mike-brown8.github.io/categories/%E5%85%AC%E5%91%8A/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>注意!</title>
-    <link href="https://mike-brown8.github.io/2021/11/03/2021-11-3-zy/"/>
-    <id>https://mike-brown8.github.io/2021/11/03/2021-11-3-zy/</id>
-    <published>2021-11-02T16:00:00.000Z</published>
-    <updated>2021-12-14T06:26:19.262Z</updated>
-    
-    
-    <summary type="html">Blog moved!</summary>
-    
-    
-    
-    <category term="blog" scheme="https://mike-brown8.github.io/categories/blog/"/>
     
     
   </entry>
