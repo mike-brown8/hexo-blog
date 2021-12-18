@@ -1,8 +1,8 @@
 ---
 title: Hexo博客GUI工具
 date: 2021-12-14 14:21:05
-categories: 工具
-tags: 闭源软件
+categories: 闭源软件
+tags: 工具
 ---
 
 因为觉得备份博客太麻烦，花两个小时做了这个。
